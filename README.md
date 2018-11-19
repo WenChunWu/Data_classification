@@ -22,12 +22,12 @@ https://archive.ics.uci.edu/ml/datasets/Wine  : 資料及下載網址
 
 wine.csv:資料集
 
-**Others**
+**Others:**
 
 
 output folder:程式碼執行出來後圖片檔的存放位置
 
-**Reference**
+**Reference:**
 
 
 https://stackabuse.com/decision-trees-in-python-with-scikit-learn/
